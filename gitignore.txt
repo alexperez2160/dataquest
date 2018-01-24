@@ -91,3 +91,12 @@ ENV/
 .idea
 data
 processed
+
+schools/data/*
+chinook_db/data/*
+baseball_design_db/data/*
+CIA_factbook/data/*
+College_majors/data/*
+Super_bowl/data/*
+Thanksgiving_polls/data/*
+*/data/*
